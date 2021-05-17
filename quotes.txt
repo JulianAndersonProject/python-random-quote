@@ -12,3 +12,5 @@ Favor focus over features
 Avoid administrative distraction
 Design for failure
 Keep it logically awesome
+Buy the dips
+You don't make any money unless you hit that sell button
